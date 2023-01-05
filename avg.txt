@@ -1,0 +1,90 @@
+WORK STEALING POOL : Max Completion Time for K:10 threads:32 numJobs:10000 is :0x55c36200f500
+WORK STEALING POOL : Average Completion Time for K:10 threads:32 numJobs:10000 is :0.813739
+ -----------------X--------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:32 numJobs:10000 is :0x55fd57c8c500
+WORK SHARING POOL : Average Completion Time for K:10 threads:32 numJobs:10000 is :0.588007
+--------------X---------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:32 numJobs:10000 is :0.733554
+WORK SHARING POOL : Average Completion Time for K:10 threads:32 numJobs:10000 is :0.648495
+--------------X---------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:32 numJobs:10000 is :0.837467
+WORK SHARING POOL : Average Completion Time for K:10 threads:32 numJobs:10000 is :0.66264
+--------------X---------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:32 numJobs:10000 is :0.743262
+WORK SHARING POOL : Average Completion Time for K:10 threads:32 numJobs:10000 is :0.630707
+--------------X---------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:32 numJobs:10000 is :0.802767
+WORK SHARING POOL : Average Completion Time for K:10 threads:32 numJobs:10000 is :0.686608
+--------------X---------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:32 numJobs:10000 is :0.668145
+WORK SHARING POOL : Average Completion Time for K:10 threads:32 numJobs:10000 is :0.563798
+--------------X---------------
+WORK STEALING POOL : Max Completion Time for K:10 threads:32 numJobs:10000 is :1.14972
+WORK STEALING POOL : Average Completion Time for K:10 threads:32 numJobs:10000 is :0.941119
+ -----------------X--------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:32 numJobs:10000 is :0.713793
+WORK SHARING POOL : Average Completion Time for K:10 threads:32 numJobs:10000 is :0.596185
+--------------X---------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:16 numJobs:10000 is :0.828311
+WORK SHARING POOL : Average Completion Time for K:10 threads:16 numJobs:10000 is :0.690362
+--------------X---------------
+WORK STEALING POOL : Max Completion Time for K:10 threads:16 numJobs:10000 is :1.23787
+WORK STEALING POOL : Average Completion Time for K:10 threads:16 numJobs:10000 is :1.15046
+ -----------------X--------------
+WORK STEALING POOL : Max Completion Time for K:10 threads:16 numJobs:10000 is :1.36158
+WORK STEALING POOL : Average Completion Time for K:10 threads:16 numJobs:10000 is :1.18767
+ -----------------X--------------
+WORK STEALING POOL : Max Completion Time for K:10 threads:16 numJobs:10000 is :1.61925
+WORK STEALING POOL : Average Completion Time for K:10 threads:16 numJobs:10000 is :1.28664
+ -----------------X--------------
+WORK STEALING POOL : Max Completion Time for K:10 threads:17 numJobs:10000 is :1.53863
+WORK STEALING POOL : Average Completion Time for K:10 threads:17 numJobs:10000 is :1.2814
+ -----------------X--------------
+WORK STEALING POOL : Max Completion Time for K:10 threads:17 numJobs:10000 is :1.36323
+WORK STEALING POOL : Average Completion Time for K:10 threads:17 numJobs:10000 is :1.23712
+ -----------------X--------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:16 numJobs:10000 is :0.85496
+WORK SHARING POOL : Average Completion Time for K:10 threads:16 numJobs:10000 is :0.701554
+--------------X---------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:17 numJobs:10000 is :0.836362
+WORK SHARING POOL : Average Completion Time for K:10 threads:17 numJobs:10000 is :0.699105
+--------------X---------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:17 numJobs:10000 is :0.860644
+WORK SHARING POOL : Average Completion Time for K:10 threads:17 numJobs:10000 is :0.686036
+--------------X---------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:16 numJobs:10000 is :0.854121
+WORK SHARING POOL : Average Completion Time for K:10 threads:16 numJobs:10000 is :0.678582
+--------------X---------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:17 numJobs:10000 is :0.952796
+WORK SHARING POOL : Average Completion Time for K:10 threads:17 numJobs:10000 is :0.740362
+--------------X---------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:17 numJobs:10000 is :0.771971
+WORK SHARING POOL : Average Completion Time for K:10 threads:17 numJobs:10000 is :0.663619
+--------------X---------------
+WORK STEALING POOL : Max Completion Time for K:10 threads:16 numJobs:10000 is :1.66668
+WORK STEALING POOL : Average Completion Time for K:10 threads:16 numJobs:10000 is :1.4387
+ -----------------X--------------
+WORK STEALING POOL : Max Completion Time for K:10 threads:17 numJobs:10000 is :1.26599
+WORK STEALING POOL : Average Completion Time for K:10 threads:17 numJobs:10000 is :1.15074
+ -----------------X--------------
+WORK STEALING POOL : Max Completion Time for K:10 threads:17 numJobs:10000 is :1.19896
+WORK STEALING POOL : Average Completion Time for K:10 threads:17 numJobs:10000 is :1.13144
+ -----------------X--------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:16 numJobs:10000 is :0.927185
+WORK SHARING POOL : Average Completion Time for K:10 threads:16 numJobs:10000 is :0.734314
+--------------X---------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:17 numJobs:10000 is :0.784228
+WORK SHARING POOL : Average Completion Time for K:10 threads:17 numJobs:10000 is :0.692668
+--------------X---------------
+WORK SHARING POOL : Max Completion Time for K:10 threads:17 numJobs:10000 is :0.812249
+WORK SHARING POOL : Average Completion Time for K:10 threads:17 numJobs:10000 is :0.666871
+--------------X---------------
+WORK STEALING POOL : Max Completion Time for K:10 threads:16 numJobs:10000 is :1.44536
+WORK STEALING POOL : Average Completion Time for K:10 threads:16 numJobs:10000 is :1.27026
+ -----------------X--------------
+WORK STEALING POOL : Max Completion Time for K:10 threads:17 numJobs:10000 is :1.60139
+WORK STEALING POOL : Average Completion Time for K:10 threads:17 numJobs:10000 is :1.295
+ -----------------X--------------
+WORK STEALING POOL : Max Completion Time for K:10 threads:17 numJobs:10000 is :1.61709
+WORK STEALING POOL : Average Completion Time for K:10 threads:17 numJobs:10000 is :1.35157
+ -----------------X--------------
